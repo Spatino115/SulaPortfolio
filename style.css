@@ -1,0 +1,121 @@
+body {background-color: rgb(204, 213, 174);
+}
+    h1   {color: rgb(204, 213, 174);}
+    p    {color: rgb(254, 250, 224);}
+
+    h2   {color: rgb(254, 250, 224);}
+
+
+ .jersey-20-regular {
+        font-family: "Jersey 20", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+h1 {
+        font-family: "Jersey 20", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+
+        
+      }
+h2 {
+        font-family: "Jersey 20", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+
+      }   
+p {
+        font-family: "Jersey 20", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        color: rgb(254, 250, 224);
+  
+        
+      }
+
+.header {
+        padding: 10px;
+        text-align: left;
+        background: rgb(250, 237, 206);
+        color: rgb(224, 229, 182);
+        font-size: 30px;
+ 
+      }
+.p1 {
+
+    font-family: "Jersey 20", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(254, 250, 224);
+
+
+}
+
+.desc {
+
+  font-family: "Jersey 20", sans-serif;
+  color: rgb(254, 250, 224);
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+
+
+}
+
+
+/*navigation bar!*/
+.topnav {
+    background-color: rgb(224, 229, 182);
+    overflow: hidden;
+
+  }
+  
+
+  .topnav a {
+    font-family: "Jersey 20", sans-serif;
+    float: left;
+    color:rgb(254, 250, 224);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(204, 213, 174);
+    color: rgb(250, 237, 206);
+ 
+  }
+  
+  .topnav a.active {
+    background-color: rgb(204, 213, 174);
+    color: rgb(250, 237, 206);
+ 
+  }
+
+/*Cursor*/
+  #custom-cursor{
+    pointer-events: none;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #ff0f0f;
+    border-radius: 50%;
+    cursor: none;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
