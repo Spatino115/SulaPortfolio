@@ -97,15 +97,14 @@ p {
   }
 
 /*Cursor*/
-  #custom-cursor{
-    pointer-events: none;
-    width: 30px;
-    height: 30px;
-    border: 2px solid #ff0f0f;
-    border-radius: 50%;
-    cursor: none;
-  }
-  
+#custom-cursor {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: red;
+  pointer-events: none;
+}
 
 
 
